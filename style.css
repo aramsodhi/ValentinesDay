@@ -185,12 +185,11 @@ body {
   text-align: center;
 }
 
-.text:hover span {
+.bye-bye {
   display: none;
 }
 
-.text:hover:before {
+.clicked:before {
   content:"I love you, Jordyn";
   font-size:25px;
-
 }
